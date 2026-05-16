@@ -1,14 +1,12 @@
 === Crate Claimer Log ===
-Started: 2026-05-15 20:44:12
+Started: 2026-05-16 00:07:13
 ========================================
 
-[2026-05-15 20:44:12] Starting the crate claimer script...
-[2026-05-15 20:44:12] Injecting session cookie for authentication...
-[2026-05-15 20:44:12]  navigating to https://www.fentry.org/dashboard/lootboxes...
-[2026-05-15 20:44:18] Successfully authenticated and on the dashboard page.
-[2026-05-15 20:44:18] Looking for the 'button:has-text("Open Regular Crate")' button...
-[2026-05-15 20:44:18] Button found, but it is disabled (on cooldown). No action taken.
-[2026-05-15 20:44:18]  shutting down.
-[2026-05-15 20:44:18] Script execution completed.
-[2026-05-15 20:44:18] ========================================
-[2026-05-15 20:44:18] Script ended at: 2026-05-15 20:44:18
+[2026-05-16 00:07:13] Starting the crate claimer script...
+[2026-05-16 00:07:14] Injecting session cookie for authentication...
+[2026-05-16 00:07:14]  navigating to https://www.fentry.org/dashboard/lootboxes...
+[2026-05-16 00:07:20] Login failed! Redirected to https://www.fentry.org/signin. Please refresh your cookie.
+[2026-05-16 00:07:20]  shutting down.
+[2026-05-16 00:07:20] Script execution completed.
+[2026-05-16 00:07:20] ========================================
+[2026-05-16 00:07:20] Script ended at: 2026-05-16 00:07:20
